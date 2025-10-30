@@ -1,5 +1,4 @@
 # Armillotta Martino
-Armillotta Martino
 
 Hi, I'm Martino 👋
 
@@ -26,3 +25,5 @@ I’ve always been drawn to adrenaline-fueled activities, especially parkour, wh
 [Portfolio](https://armillottamartino.com/)
 
 [LeetCode](https://leetcode.com/u/armillottamartino/)
+
+[Thingiverse](https://www.thingiverse.com/marti_1599/designs)
